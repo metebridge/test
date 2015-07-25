@@ -1,4 +1,4 @@
-<?php
+/*<?php
 
 if(isset($_POST['username'])&&isset($_POST['password'])){
 $username=$_POST['username'];
@@ -28,8 +28,9 @@ $password_hase=md5($password);
 
 
 }
+njnkll
 
-?>
+?>*/
 
 <form action="<?php echo $current_file;?>" method="post">
 Username:<input type="text" name="username"><br>
